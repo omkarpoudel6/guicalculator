@@ -1,4 +1,5 @@
 from tkinter import *
+print("calculator")
 def calculate(a):
     try:
         z=eval(a)
